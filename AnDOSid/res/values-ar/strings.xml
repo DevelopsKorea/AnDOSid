@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">الهدف URL.</string>
+    <string name="main_Payload">.(حجم الحمولة (بالبايت</string>
+    <string name="main_milliseconds">ميلي ثانية بين المشاركات.</string>
+    <string name="main_GO">انتقل</string>
+    <string name="main_Stop">توقف</string>
+    <string name="AnDOSid_error1">عنوان الهدف لا يبدو أن هناك عنوان URL صالح.</string>
+    <string name="AnDOSid_OK">موافق</string>
+    <string name="AnDOSid_error2">يجب أن يكون حجم حمولة يكون رقما.</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid هو فقط للاستخدام من قبل موظفي أمن محترفة لاختبار المواقع التي لديك إذن من المالك لاختبار. اذا كنت لا تملك صلاحية إنهاء تحديد.</string>
+    <string name="AnDOSid_Quit">الإقلاع عن التدخين.</string>
+    <string name="AnDOSid_Continue">متابعة.</string>
+    <string name="AnDOSid_error3">يجب أن يكون عدد من ميلي ثانية عددا.</string>
+    <string name="AnDOSid_started">بدأ الهجوم.</string>
+    <string name="AnDOSid_stopped.">انتهى الهجوم.</string>
+</resources>

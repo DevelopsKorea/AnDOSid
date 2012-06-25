@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">URL cible</string>
+    <string name="main_Payload">Taille de charge utile (en octets)</string>
+    <string name="main_milliseconds">Millisecondes entre les messages</string>
+    <string name="main_GO">Aller</string>
+    <string name="main_Stop">Arrêtée</string>
+    <string name="AnDOSid_error1">L\'adresse cible ne semble pas être une URL valide</string>
+    <string name="AnDOSid_OK">OK</string>
+    <string name="AnDOSid_error2">La taille de charge utile doit être un nombre</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid est uniquement pour une utilisation par le personnel de sécurité profesional pour tester les sites qu\'ils ont la permission écrite du propriétaire de tester. Si vous n\'avez pas la permission writtern sélectionnez Quitter.</string>
+    <string name="AnDOSid_Quit">Quitter.</string>
+    <string name="AnDOSid_Continue">Continuer</string>
+    <string name="AnDOSid_error3">Le nombre de millisecondes qui doit être un nombre</string>
+    <string name="AnDOSid_started">Attaque a commencé.</string><string name="AnDOSid_stopped.">Attaque arrêtée.</string>
+    
+</resources>

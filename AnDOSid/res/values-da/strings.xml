@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">Målwebadresse.</string>
+    <string name="main_Payload">Nyttelast Størrelse (i byte).</string>
+    <string name="main_milliseconds">Millisekunder mellem indlæg.</string>
+    <string name="main_GO">Go</string>
+    <string name="main_Stop">Stop.</string>
+    <string name="AnDOSid_error1">Målet adressen ser ikke ud til at være en gyldig URL</string>
+    <string name="AnDOSid_OK">OK</string>
+    <string name="AnDOSid_error2">Nyttelasten størrelse skal være et tal</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid er udelukkende til brug ved profesional vagtpersonale til at teste websteder, de har skriftlig tilladelse fra ejeren til at teste. Hvis du ikke har writtern tilladelse vælge Afslut.</string>
+    <string name="AnDOSid_Quit">Afslut.</string>
+    <string name="AnDOSid_Continue">Fortsæt.</string>
+    <string name="AnDOSid_error3">Antallet af millisekunder skal være et tal.</string>
+    <string name="AnDOSid_started">Attack startede.</string>
+    <string name="AnDOSid_stopped.">Attack stoppet.</string>
+</resources>

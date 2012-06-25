@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">Ziel-URL.</string>
+    <string name="main_Payload">Payload Größe (in Bytes).</string>
+    <string name="main_milliseconds">Millisekunden zwischen den Pfosten.</string>
+    <string name="main_GO">Gehen.</string>
+    <string name="main_Stop">Halt.</string>
+    <string name="AnDOSid_error1">Die Zieladresse wird nicht angezeigt, um eine gültige URL sein.</string>
+    <string name="AnDOSid_OK">OK.</string>
+    <string name="AnDOSid_error2">Die Payload-Größe muss eine Zahl sein.</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid ist ausschließlich zur Verwendung durch professionelle Sicherheitskräfte zu Websites, die sie geschrieben haben, die Erlaubnis des Eigentümers für den test test. Wenn Sie noch kein writtern Erlaubnis wählen zu beenden.</string>
+    <string name="AnDOSid_Quit">Quit.</string>
+    <string name="AnDOSid_Continue">Weiter.</string>
+    <string name="AnDOSid_error3">Die Anzahl der Millisekunden muss eine Zahl sein.</string>
+    <string name="AnDOSid_started">Angriff gestartet.</string>
+    <string name="AnDOSid_stopped.">Angriff beendet.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">Target URL.</string>
+    <string name="main_Payload">Payload Size (in Bytes).</string>
+    <string name="main_milliseconds">Milliseconds between posts.</string>
+    <string name="main_GO">Go</string>
+    <string name="main_Stop">Stop.</string>
+    <string name="AnDOSid_error1">The target address doesn\'t appear to be a valid URL</string>
+    <string name="AnDOSid_OK">OK</string>
+    <string name="AnDOSid_error2">The payload size must be a number</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid is solely for use by professional security staff to test sites they have permission from the owner to test. If you do not have permission select quit.</string>
+    <string name="AnDOSid_Quit">Quit.</string>
+    <string name="AnDOSid_Continue">Continue</string>
+    <string name="AnDOSid_error3">The number of milliseconds must be a number</string>
+    <string name="AnDOSid_started">Attack started.</string>
+    <string name="AnDOSid_stopped.">Attack finished.</string>
+    
+</resources>

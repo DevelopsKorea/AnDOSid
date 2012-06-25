@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">URL de destino.</string>
+    <string name="main_Payload">Tamaño de carga útil (en bytes).</string>
+    <string name="main_milliseconds">Milisegundos entre los mensajes.</string>
+    <string name="main_GO">ir.</string>
+    <string name="main_Stop">Detener.</string>
+    <string name="AnDOSid_error1">La dirección de destino no parece ser una URL válida.</string>
+    <string name="AnDOSid_OK">OK.</string>
+    <string name="AnDOSid_error2">El tamaño de la carga debe ser un número.</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid es exclusivamente para uso del personal de seguridad profesional para poner a prueba los sitios que han escrito el permiso del propietario para poner a prueba. Si usted no tiene permiso para ejecutar select dejar de fumar.</string>
+    <string name="AnDOSid_Quit">Dejar de fumar.</string>
+    <string name="AnDOSid_Continue">Continuar.</string>
+    <string name="AnDOSid_error3">El número de milisegundos debe ser un número.</string>
+    <string name="AnDOSid_started">Ataque comenzó.</string>
+    <string name="AnDOSid_stopped.">Ataque final.</string>
+</resources>

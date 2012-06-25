@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AnDOSid</string>
+    <string name="main_Target">लक्ष्य यूआरएल.</string>
+    <string name="main_Payload">पेलोड आकार (बाइट्स में).</string>
+    <string name="main_milliseconds">पोस्ट के बीच मिलीसेकंड.</string>
+    <string name="main_GO">जाओ.</string>
+    <string name="main_Stop">बंद करो.</string>
+    <string name="AnDOSid_error1">लक्ष्य पता करने के लिए एक मान्य URL होना प्रकट नहीं होता है.</string>
+    <string name="AnDOSid_OK">ठीक है.</string>
+    <string name="AnDOSid_error2">पेलोड आकार के एक नंबर होना चाहिए.</string>
+    <string name="AnDOSid_welcome_msg">AnDOSid पेशेवर सुरक्षा कर्मचारियों द्वारा उपयोग करने के लिए साइटों वे मालिक से अनुमति के लिए परीक्षण है परीक्षण के लिए पूरी तरह से है. यदि आप की अनुमति नहीं है का चयन करें छोड़ दिया.</string>
+    <string name="AnDOSid_Quit">बाहर निकलें.</string>
+    <string name="AnDOSid_Continue">जारी रखें.</string>
+    <string name="AnDOSid_error3">मिलीसेकेंड की संख्या संख्या होना चाहिए.</string>
+    <string name="AnDOSid_started">हमला शुरू कर दिया.</string>
+    <string name="AnDOSid_stopped.">हमला समाप्त.</string>
+</resources>
